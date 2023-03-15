@@ -17,11 +17,11 @@ const PortfolioData = [
     delayAnimation: "0",
     modalDetails: [
       {
-        project: "Website",
-        client: "Envato",
-        language: "HTML, CSS, Javascript",
-        preview: "www.envato.com",
-        link: "https://www.envato.com/",
+        project: "Gamenight",
+        client: "UTRGV",
+        language: "React, Tailwindcss, nodejs",
+        preview: "https://github.com/snipergz/GameNight",
+        link: "https://github.com/snipergz/GameNight",
       },
     ],
   },

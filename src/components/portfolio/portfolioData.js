@@ -28,11 +28,11 @@ const PortfolioData = [
     delayAnimation: "100",
     modalDetails: [
       {
-        project: "AD photography",
-        client: "",
+        project: "Spotify API",
+        client: "Gerardo",
         language: "react SASS",
-        preview: "https://adphotography.netlify.app/",
-        link: "https://github.com/owlsCloud/AD-Photography",
+        preview: "https://spotifyvisual.netlify.app",
+        link: "https://github.com/owlsCloud/spotify-visual-back",
       },
     ],
   },
@@ -45,10 +45,10 @@ const PortfolioData = [
     modalDetails: [
       {
         project: "Website",
-        client: "Themeforest",
+        client: "Andrea",
         language: " nextjs, SASS",
-        preview: "https://hbomax-clone.netlify.app/create",
-        link: "https://github.com/owlsCloud/hbomax-clone",
+        preview: "https://adphotography.netlify.app",
+        link: "",
       },
     ],
   },
@@ -60,11 +60,11 @@ const PortfolioData = [
     delayAnimation: "0",
     modalDetails: [
       {
-        project: "video",
-        client: "Videohive",
-        language: " Adobe After Effects",
-        preview: "www.videohive.net",
-        link: "https://www.videohive.net",
+        project: "website",
+        client: "Gerardo",
+        language: "nextjs, SASS",
+        preview: "https://hbomax-clone.netlify.app/create",
+        link: "https://github.com/owlsCloud/hbomax-clone",
       },
     ],
   },
